@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843368898462",
+    "project_id": "f1-pitwall",
+    "storage_bucket": "f1-pitwall.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843368898462:android:bbca3c588e8818808ac08f",
+        "android_client_info": {
+          "package_name": "com.lexiz.pitwall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyhTmJYt4Qlom-iSRlF-w8HEJyfRD9WTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

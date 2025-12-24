@@ -1,0 +1,28 @@
+# --- Flutter / Dart ---
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/.pub-cache/
+frontend/build/
+frontend/android/.gradle
+frontend/android/app/build.gradle.kts
+frontend/ios/.symlinks
+frontend/ios/Pods/
+
+# --- Python / Backend ---
+backend/__pycache__/
+backend/venv/
+backend/.venv/
+backend/*.pyc
+backend/.env
+
+# --- System / IDE ---
+.DS_Store
+.idea/
+.vscode/
+
+# --- Firebase / Secrets ---
+# Ideally, we ignore this for public repos, but for private backup, you might keep it.
+# Uncomment the line below if you want to hide your API keys:
+# frontend/android/app/google-services.json
